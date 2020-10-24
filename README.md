@@ -11,7 +11,7 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-  - [Usage/Controls](#usage/Controls)
+  - [Usage/Controls](#usage/controls)
   - [Roadmap](#roadmap)
   - [Contributing](#contributing)
   - [License](#license)
