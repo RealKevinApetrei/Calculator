@@ -47,7 +47,7 @@ This project was made with:
 # Getting Started
 Requirements and details on how to get the game running
 
-## Prerequisites
+# Prerequisites
 Requirements:
 
 - Python3.6+\
@@ -60,15 +60,15 @@ Other Requirements:
 
 - Tkinter.font (Preinstlled with Tkinter)
 
-## Installation
+# Installation
 1. Make sure you have correctly completed the [Prerequisites](#prerequisites).
 2. Clone the repository\
    **`git clone https://github.com/RealKevinApetrei/Calculator/`**
 
-## Usage/Controls
+# Usage/Controls
 Information on how to use the program.
 
-# Keyboard Controls:
+**Keyboard Controls:**
 - Numbers 0-9 (The same as on keyboard)
 
 - Addition (+)
