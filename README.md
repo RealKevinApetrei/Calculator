@@ -22,11 +22,13 @@
 ## Information
 ![CALCULATOR_SHOWCASE](https://user-images.githubusercontent.com/65184258/97081589-4eec0f80-15fb-11eb-8ecf-fe7fc9587bf9.png)
 
-This project is a simple calculator application. It features **integrated keyboard control** and *two light and dark themes* to keep your eyes happy.
+This project is a simple calculator application. It features **integrated keyboard control** and **two light and dark themes** to keep your eyes happy.
 This was my first project where I fullly integrated the keyboard so you don't really need to spend time clicking all the buttons.
 
 Calculator by Kevin Apetrei makes it easier to use Software Calculators by keeping a clean design and allowing you to spend less time clicking on buttons
 and more time calculating!
+
+**DISCLAIMER: This program was made with __Windows 10__ and may not work exactly the same on other Systems**
 
 ## Features
 Here are some of the features of the project:
