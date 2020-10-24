@@ -76,9 +76,9 @@ Information on how to use the program.
 - Multiplication (**\*** or **×**)
 - Division (**/** or **÷**)
 
-- Calculate (= or RETURN)
-- Delete (BACKSPACE)
-- AC (DELETE or SHIFT-BACKSPACE) 
+- Calculate (**=** or **RETURN**)
+- Delete (**BACKSPACE**)
+- AC (**DELETE** or **SHIFT-BACKSPACE**) 
 
 Use your keyboard or click the buttons to enter a desired calculation and get the result.
 
