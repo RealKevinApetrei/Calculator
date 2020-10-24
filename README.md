@@ -11,7 +11,7 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-  - [Usage/Controls](#usage/controls)
+  - [Usage and Controls](#usage-and-controls)
   - [Roadmap](#roadmap)
   - [Contributing](#contributing)
   - [License](#license)
@@ -65,7 +65,7 @@ Other Requirements:
 2. Clone the repository\
    **`git clone https://github.com/RealKevinApetrei/Calculator/`**
 
-# Usage/Controls
+# Usage and Controls
 Information on how to use the program.
 
 **Keyboard Controls:**
