@@ -45,6 +45,8 @@ class Main(Application): # Main Window
     def __init__(self):
         super().__init__() # Superclass (Application)
 
+    
+
         # Window Contents
             # Result Box
         self.result_box = tk.Text(self, bg="gray75", width=35, height=4, borderwidth=3, relief="raised", font=self.hel15b, state="disabled")
