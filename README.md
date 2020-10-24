@@ -61,6 +61,8 @@ Other Requirements:
 - Tkinter.font (Preinstlled with Tkinter)
 
 # Installation
+**INFO: Calculator.exe downloadable from [here](https://github.com/RealKevinApetrei/Calculator/releases).**
+
 1. Make sure you have correctly completed the [Prerequisites](#prerequisites).
 2. Clone the repository\
    **`git clone https://github.com/RealKevinApetrei/Calculator/`**
