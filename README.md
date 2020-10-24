@@ -45,7 +45,7 @@ This project was made with:
 - Tkinter
 
 # Getting Started
-Requirements and details on how to get the game running
+Requirements and details on how to get the program running
 
 # Prerequisites
 Requirements:
