@@ -69,12 +69,12 @@ Other Requirements:
 Information on how to use the program.
 
 **Keyboard Controls:**
-- Numbers 0-9 (The same as on keyboard)
+- Numbers 0-9 (**The same as on keyboard**)
 
-- Addition (+)
-- Subtraction (-)
-- Multiplication (* or ×)
-- Division (/ or ÷)
+- Addition (**+**)
+- Subtraction (**-**)
+- Multiplication (**\*** or **×**)
+- Division (**/** or **÷**)
 
 - Calculate (= or RETURN)
 - Delete (BACKSPACE)
