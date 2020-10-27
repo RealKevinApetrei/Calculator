@@ -35,17 +35,10 @@ class Application(tk.Tk): # Application Class Object
         Class Qualname: {__qualname}
         """
 
-    def back(self):
-        self.destroy() # Destroy Window
-        
-        setup() # Run Main Menu Setup
-
 
 class Main(Application): # Main Window
     def __init__(self):
         super().__init__() # Superclass (Application)
-
-    
 
         # Window Contents
             # Result Box
